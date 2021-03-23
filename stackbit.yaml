@@ -62,7 +62,7 @@ models:
           - orange
           - purple
           - black
-          - 
+          - test
         default: blue
         required: true
       - type: enum
